@@ -5,25 +5,24 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm an LLM Developer Advocate at [@AI Makerspace](https://www.linkedin.com/company/ai-maker-space/), and working as a Developer Advocate Contractor!
-- 🎯 I’m currently learning LLMs and LLMOps, and sharpening my DevRel skills!
-- 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
-- 🥅 2024 Goals: One commit per day! 
+- 🧙‍♂️ I'm an AI/ML Engineer  at [@kloia](https://www.linkedin.com/company/kloia/), and upskilling at [@mlops-club](https://www.linkedin.com/company/mlops-club/)
+- 🎯 I’m currently focusing on Backend and Infra skills.
+- 🥅 Current Goal: Coding at least 3 hr/day! 
 
  
 
- ## ⭐ My projects
+ ## ⭐ Cool projects
 
 <!---* [MIT-Stanford based Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌 -->
  
 <!---* * [👊 Project D: Riot Games Data Science](https://github.com/mertbozkir/Riot-Games-Data-Science) -->
+* [MLOps Club RAG 😎](https://github.com/cmagganas/mlops-club-rag)
+* [Deku AI friend - Chainlit on AWS ECS and DynamoDB ☁️](https://www.youtube.com/watch?v=lroZqEkjxlA)
+* [Legal Vector Search application w/Milvus 🐦](https://github.com/dope-projects/legal-vector-search)
+* [MLOps Club - BentoML VScode Extension 📦](https://github.com/mlops-club/vscode-bentoml)
 * [Multi-Agent Problem Solver System: Tiny Agents](https://github.com/PanoEvJ/Tiny_Agents/)
 * [LLM Agent Swarm!💥](https://github.com/petterle-endeavors/llm-cdk-app-agent)
 * [open-source-chat: Documentation Chatbot](https://github.com/mertbozkir/open-source-chat)
-* [RFM Customer Segmentation❤️‍🔥Streamlit](https://github.com/mertbozkir/RFM_Customer_Segmentation_Streamlit) 
-* [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
-* [Home-Credit-Default-Risk Analysis with GBMs](https://github.com/mertbozkir/Home-Credit-Default-Risk) 🧩
-* [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 
