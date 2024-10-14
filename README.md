@@ -5,7 +5,7 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm an AI/ML Engineer  at [@kloia](https://www.linkedin.com/company/kloia/), and upskilling at [@mlops-club](https://www.linkedin.com/company/mlops-club/)
+- 🧙‍♂️ I'm an AI/ML Engineer [@kloia](https://www.linkedin.com/company/kloia/), and upskilling [@mlops-club](https://www.linkedin.com/company/mlops-club/)!
 - 🎯 I’m currently focusing on Backend and Infra skills.
 - 🥅 Current Goal: Coding at least 3 hr/day! 
 
