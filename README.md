@@ -2,12 +2,9 @@
 
 <h2 align="center">A Passionate Machine Learning Engineer from Turkey</h2>
 
-## I'm a Self-Taught, Contributor, Developer and Researcher!!
-
-- 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm an AI/ML Engineer [@kloia](https://www.linkedin.com/company/kloia/), and upskilling [@mlops-club](https://www.linkedin.com/company/mlops-club/)!
-- 🎯 I’m currently focusing on Backend and Infra skills.
-- 🥅 Current Goal: Coding at least 3 hr/day! 
+- 🧙‍♂️ I'm an AI/ML Engineer [@kloia](https://www.linkedin.com/company/kloia/), and upskilling engineering skills [@mlops-club](https://www.linkedin.com/company/mlops-club/)!
+- 🔭 Currently working through the [GPU Mode](https://www.youtube.com/channel/UCJgIbYl6C5no72a0NUAPcTA) lectures to enhance GPU programming skills..
+- 🌅 Current Goal: at least one commit a day! 
 
  
 
