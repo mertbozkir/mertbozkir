@@ -24,7 +24,7 @@
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 
 
-## ⚡ Recent Activity
+### 🔥 Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/cmagganas/mlops-club-rag/pull/2) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
 2. 💪 Opened PR [#2](https://github.com/cmagganas/mlops-club-rag/pull/2) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
