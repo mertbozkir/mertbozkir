@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/synnada-ai/mithril/pull/36#issuecomment-2540805823) in [synnada-ai/mithril](https://github.com/synnada-ai/mithril)
-2. 🎉 Merged PR [#2](https://github.com/cmagganas/mlops-club-rag/pull/2) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
-3. 💪 Opened PR [#2](https://github.com/cmagganas/mlops-club-rag/pull/2) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
-4. 🎉 Merged PR [#1](https://github.com/cmagganas/mlops-club-rag/pull/1) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
-5. 💪 Opened PR [#1](https://github.com/cmagganas/mlops-club-rag/pull/1) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
+1. 🗣 Commented on [#255](https://github.com/GokuMohandas/Made-With-ML/issues/255#issuecomment-2549586730) in [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
+2. 🗣 Commented on [#36](https://github.com/synnada-ai/mithril/pull/36#issuecomment-2540805823) in [synnada-ai/mithril](https://github.com/synnada-ai/mithril)
+3. 🎉 Merged PR [#2](https://github.com/cmagganas/mlops-club-rag/pull/2) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
+4. 💪 Opened PR [#2](https://github.com/cmagganas/mlops-club-rag/pull/2) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
+5. 🎉 Merged PR [#1](https://github.com/cmagganas/mlops-club-rag/pull/1) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
