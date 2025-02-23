@@ -26,7 +26,7 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/pydantic/pydantic-ai/issues/58#issuecomment-2575043530) in [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
+1. ❗ Opened issue [#421](https://github.com/jupyter-xeus/xeus/issues/421) in [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus)
 2. 🗣 Commented on [#2193](https://github.com/milvus-io/pymilvus/issues/2193#issuecomment-2549921823) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
 3. 🗣 Commented on [#255](https://github.com/GokuMohandas/Made-With-ML/issues/255#issuecomment-2549586730) in [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
 4. 🗣 Commented on [#36](https://github.com/synnada-ai/mithril/pull/36#issuecomment-2540805823) in [synnada-ai/mithril](https://github.com/synnada-ai/mithril)
