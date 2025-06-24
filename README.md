@@ -26,7 +26,7 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#692](https://github.com/huggingface/lighteval/issues/692) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
+1. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3000589473) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
 2. 🗣 Commented on [#2193](https://github.com/milvus-io/pymilvus/issues/2193#issuecomment-2549921823) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
 3. 🗣 Commented on [#255](https://github.com/GokuMohandas/Made-With-ML/issues/255#issuecomment-2549586730) in [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
 4. 🗣 Commented on [#36](https://github.com/synnada-ai/mithril/pull/36#issuecomment-2540805823) in [synnada-ai/mithril](https://github.com/synnada-ai/mithril)
