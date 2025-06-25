@@ -26,10 +26,10 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3001807290) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-2. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3001193243) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-3. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3000589473) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
-4. 🗣 Commented on [#36](https://github.com/synnada-ai/mithril/pull/36#issuecomment-2540805823) in [synnada-ai/mithril](https://github.com/synnada-ai/mithril)
+1. 🗣 Commented on [#2688](https://github.com/triton-lang/triton/issues/2688#issuecomment-3002183499) in [triton-lang/triton](https://github.com/triton-lang/triton)
+2. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3001807290) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+3. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3001193243) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
+4. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3000589473) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
 5. 🎉 Merged PR [#2](https://github.com/cmagganas/mlops-club-rag/pull/2) in [cmagganas/mlops-club-rag](https://github.com/cmagganas/mlops-club-rag)
 <!--END_SECTION:activity-->
 
