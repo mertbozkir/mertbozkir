@@ -26,7 +26,7 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2688](https://github.com/triton-lang/triton/issues/2688#issuecomment-3002183499) in [triton-lang/triton](https://github.com/triton-lang/triton)
+1. 🗣 Commented on [#3509](https://github.com/huggingface/trl/issues/3509#issuecomment-3175415009) in [huggingface/trl](https://github.com/huggingface/trl)
 2. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3001807290) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
 3. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3001193243) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
 4. 🗣 Commented on [#2618](https://github.com/huggingface/accelerate/issues/2618#issuecomment-3000589473) in [huggingface/accelerate](https://github.com/huggingface/accelerate)
