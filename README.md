@@ -2,7 +2,7 @@
 
 <h2 align="center">A Passionate Machine Learning Engineer from Turkey</h2>
 
-- 🧙‍♂️ I'm an AI/ML Engineer [@kloia](https://www.linkedin.com/company/kloia/), and upskilling engineering skills [@mlops-club](https://www.linkedin.com/company/mlops-club/)!
+- 🧙‍♂️ I'm an AI/ML Engineer [@ngc](https://tr.linkedin.com/company/ngc-new-generation-cloud-), and upskilling engineering skills [@scratch-to-scale](https://maven.com/walk-with-code/scratch-to-scale)!
 - 🔭 Currently working through the [GPU Mode](https://www.youtube.com/channel/UCJgIbYl6C5no72a0NUAPcTA) lectures to enhance GPU programming skills..
 - 🌅 Current Goal: at least one commit a day! 
 
