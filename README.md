@@ -29,8 +29,8 @@
 1. 🗣 Commented on [#946](https://github.com/huggingface/lighteval/issues/946#issuecomment-3254085697) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
 2. 🗣 Commented on [#946](https://github.com/huggingface/lighteval/issues/946#issuecomment-3253861950) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
 3. 🗣 Commented on [#946](https://github.com/huggingface/lighteval/issues/946#issuecomment-3253859639) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
-4. ❗ Opened issue [#946](https://github.com/huggingface/lighteval/issues/946) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
-5. 🗣 Commented on [#822](https://github.com/huggingface/lighteval/issues/822#issuecomment-3249733893) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
+4.  Labeled issue [#946](https://github.com/huggingface/lighteval/issues/946) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
+5. ❗ Opened issue [#946](https://github.com/huggingface/lighteval/issues/946) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
