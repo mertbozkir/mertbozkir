@@ -26,7 +26,7 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#946](https://github.com/huggingface/lighteval/issues/946#issuecomment-3254085697) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
+1. 🗣 Commented on [#2625](https://github.com/google/adk-python/issues/2625#issuecomment-3307782666) in [google/adk-python](https://github.com/google/adk-python)
 2. 🗣 Commented on [#946](https://github.com/huggingface/lighteval/issues/946#issuecomment-3253861950) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
 3. 🗣 Commented on [#946](https://github.com/huggingface/lighteval/issues/946#issuecomment-3253859639) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
 4. ❗ Opened issue [#946](https://github.com/huggingface/lighteval/issues/946) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
