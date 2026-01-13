@@ -26,7 +26,7 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2035](https://github.com/google/adk-python/issues/2035#issuecomment-3449852991) in [google/adk-python](https://github.com/google/adk-python)
+1. 🗣 Commented on [#11413](https://github.com/vercel/ai/issues/11413#issuecomment-3742527855) in [vercel/ai](https://github.com/vercel/ai)
 2. 🗣 Commented on [#2221](https://github.com/google/adk-python/issues/2221#issuecomment-3444773345) in [google/adk-python](https://github.com/google/adk-python)
 3. 🗣 Commented on [#3051](https://github.com/google/adk-python/issues/3051#issuecomment-3444261648) in [google/adk-python](https://github.com/google/adk-python)
 4. 🗣 Commented on [#2035](https://github.com/google/adk-python/issues/2035#issuecomment-3444252862) in [google/adk-python](https://github.com/google/adk-python)
