@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Graceliying82/DeepPulse/pull/10) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-2. 🎉 Merged PR [#2](https://github.com/Graceliying82/DeepPulse/pull/2) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-3. 💪 Opened PR [#2](https://github.com/Graceliying82/DeepPulse/pull/2) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-4. 🗣 Commented on [#11413](https://github.com/vercel/ai/issues/11413#issuecomment-3742527855) in [vercel/ai](https://github.com/vercel/ai)
-5. ❗ Opened issue [#3](https://github.com/VeerMuchandi/agent_registration_tool/issues/3) in [VeerMuchandi/agent_registration_tool](https://github.com/VeerMuchandi/agent_registration_tool)
+1. 🎉 Merged PR [#10](https://github.com/Graceliying82/DeepPulse/pull/10) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+2. 💪 Opened PR [#10](https://github.com/Graceliying82/DeepPulse/pull/10) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+3. 🎉 Merged PR [#2](https://github.com/Graceliying82/DeepPulse/pull/2) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+4. 💪 Opened PR [#2](https://github.com/Graceliying82/DeepPulse/pull/2) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+5. 🗣 Commented on [#11413](https://github.com/vercel/ai/issues/11413#issuecomment-3742527855) in [vercel/ai](https://github.com/vercel/ai)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
