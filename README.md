@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Graceliying82/DeepPulse/pull/13) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-2. 💪 Opened PR [#13](https://github.com/Graceliying82/DeepPulse/pull/13) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-3. 🎉 Merged PR [#10](https://github.com/Graceliying82/DeepPulse/pull/10) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-4. 💪 Opened PR [#10](https://github.com/Graceliying82/DeepPulse/pull/10) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-5. 🎉 Merged PR [#2](https://github.com/Graceliying82/DeepPulse/pull/2) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+1. 🎉 Merged PR [#15](https://github.com/Graceliying82/DeepPulse/pull/15) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+2. 💪 Opened PR [#15](https://github.com/Graceliying82/DeepPulse/pull/15) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+3. 🎉 Merged PR [#14](https://github.com/Graceliying82/DeepPulse/pull/14) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+4. 💪 Opened PR [#14](https://github.com/Graceliying82/DeepPulse/pull/14) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+5. 🎉 Merged PR [#13](https://github.com/Graceliying82/DeepPulse/pull/13) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
