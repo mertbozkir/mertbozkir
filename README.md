@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1170](https://github.com/abiosoft/colima/issues/1170#issuecomment-5250114909) in [abiosoft/colima](https://github.com/abiosoft/colima)
-2. 🗣 Commented on [#3647](https://github.com/google/adk-python/issues/3647#issuecomment-3869610299) in [google/adk-python](https://github.com/google/adk-python)
-3. 🗣 Commented on [#3701](https://github.com/google/adk-python/issues/3701#issuecomment-3869549174) in [google/adk-python](https://github.com/google/adk-python)
-4. 🎉 Merged PR [#15](https://github.com/Graceliying82/DeepPulse/pull/15) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
-5. 💪 Opened PR [#15](https://github.com/Graceliying82/DeepPulse/pull/15) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+1. 🗣 Commented on [#29689](https://github.com/google-gemini/gemini-cli/issues/29689#issuecomment-6150782007) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. 🗣 Commented on [#1228](https://github.com/google-antigravity/antigravity-cli/issues/1228#issuecomment-6153900346) in [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
+3. 🗣 Commented on [#14983](https://github.com/pingdotgg/t3code/issues/14983#issuecomment-6151445057) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. 🗣 Commented on [#19159](https://github.com/pingdotgg/t3code/pull/19159#issuecomment-6155421238) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+5. 🗣 Commented on [#19159](https://github.com/pingdotgg/t3code/pull/19159#issuecomment-6155402003) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
