@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19159](https://github.com/pingdotgg/t3code/pull/19159#issuecomment-6161410518) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 🗣 Commented on [#19150](https://github.com/pingdotgg/t3code/issues/19150#issuecomment-6154601329) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. 🗣 Commented on [#29689](https://github.com/google-gemini/gemini-cli/issues/29689#issuecomment-6150782007) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-4. 🗣 Commented on [#1228](https://github.com/google-antigravity/antigravity-cli/issues/1228#issuecomment-6153900346) in [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
-5. 🗣 Commented on [#14983](https://github.com/pingdotgg/t3code/issues/14983#issuecomment-6151445057) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🚀 Published release [Sidecar v0.1.0](https://github.com/mertbozkir/sidecar/releases/tag/v0.1.0) in [mertbozkir/sidecar](https://github.com/mertbozkir/sidecar)
+2. 🗣 Commented on [#19159](https://github.com/pingdotgg/t3code/pull/19159#issuecomment-6161410518) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. 🗣 Commented on [#19150](https://github.com/pingdotgg/t3code/issues/19150#issuecomment-6154601329) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. 🗣 Commented on [#29689](https://github.com/google-gemini/gemini-cli/issues/29689#issuecomment-6150782007) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🗣 Commented on [#1228](https://github.com/google-antigravity/antigravity-cli/issues/1228#issuecomment-6153900346) in [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
