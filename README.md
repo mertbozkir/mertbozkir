@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/RokaSwK/threebot/pull/43#issuecomment-6780260835) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-2. 💪 Opened PR [#43](https://github.com/RokaSwK/threebot/pull/43) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-3. 🗣 Commented on [#37](https://github.com/RokaSwK/threebot/issues/37#issuecomment-6740287559) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-4. ❗ Opened issue [#37](https://github.com/RokaSwK/threebot/issues/37) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-5. 🚀 Published release [Sidecar v0.1.0](https://github.com/mertbozkir/sidecar/releases/tag/v0.1.0) in [mertbozkir/sidecar](https://github.com/mertbozkir/sidecar)
+1. 🎉 Merged PR [#43](https://github.com/RokaSwK/threebot/pull/43) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+2. 🗣 Commented on [#43](https://github.com/RokaSwK/threebot/pull/43#issuecomment-6780260835) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+3. 💪 Opened PR [#43](https://github.com/RokaSwK/threebot/pull/43) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+4. 🗣 Commented on [#37](https://github.com/RokaSwK/threebot/issues/37#issuecomment-6740287559) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+5. ❗ Opened issue [#37](https://github.com/RokaSwK/threebot/issues/37) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
