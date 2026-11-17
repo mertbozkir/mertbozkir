@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Threebot 0.1.10-fork.17](https://github.com/mertbozkir/threebot/releases/tag/v0.1.10-fork.17) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
-2. 🚀 Published release [Threebot 0.1.10-fork.16](https://github.com/mertbozkir/threebot/releases/tag/v0.1.10-fork.16) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
-3. 🚀 Published release [Threebot 0.1.10-fork.15](https://github.com/mertbozkir/threebot/releases/tag/v0.1.10-fork.15) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
-4. 🚀 Published release [Threebot 0.1.10-fork.14](https://github.com/mertbozkir/threebot/releases/tag/v0.1.10-fork.14) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
-5. 🗣 Commented on [#72](https://github.com/RokaSwK/threebot/pull/72#issuecomment-6917756144) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+1. 🗣 Commented on [#77](https://github.com/RokaSwK/threebot/pull/77#issuecomment-6929523066) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+2. 🚀 Published release [Threebot 0.1.10-fork.27](https://github.com/mertbozkir/threebot/releases/tag/v0.1.10-fork.27) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
+3. 🚀 Published release [Threebot 0.1.10-fork.26](https://github.com/mertbozkir/threebot/releases/tag/v0.1.10-fork.26) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
+4. 💪 Opened PR [#77](https://github.com/RokaSwK/threebot/pull/77) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+5. 🗣 Commented on [#76](https://github.com/RokaSwK/threebot/pull/76#issuecomment-6929210143) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
