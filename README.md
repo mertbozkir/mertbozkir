@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Threebot 0.1.14-fork.4](https://github.com/mertbozkir/threebot/releases/tag/v0.1.14-fork.4) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
-2. 🗣 Commented on [#106](https://github.com/RokaSwK/threebot/pull/106#issuecomment-7042620708) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-3. 💪 Opened PR [#106](https://github.com/RokaSwK/threebot/pull/106) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-4. 🚀 Published release [Threebot 0.1.14-fork.3](https://github.com/mertbozkir/threebot/releases/tag/v0.1.14-fork.3) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
-5. 🚀 Published release [Threebot 0.1.14-fork.2](https://github.com/mertbozkir/threebot/releases/tag/v0.1.14-fork.2) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
+1. 🎉 Merged PR [#105](https://github.com/RokaSwK/threebot/pull/105) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+2. 🎉 Merged PR [#106](https://github.com/RokaSwK/threebot/pull/106) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+3. 🚀 Published release [Threebot 0.1.14-fork.4](https://github.com/mertbozkir/threebot/releases/tag/v0.1.14-fork.4) in [mertbozkir/threebot](https://github.com/mertbozkir/threebot)
+4. 🗣 Commented on [#106](https://github.com/RokaSwK/threebot/pull/106#issuecomment-7042620708) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+5. 💪 Opened PR [#106](https://github.com/RokaSwK/threebot/pull/106) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
