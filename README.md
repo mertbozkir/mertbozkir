@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/RokaSwK/threebot/pull/111#issuecomment-7104933614) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-2. 🗣 Commented on [#114](https://github.com/RokaSwK/threebot/pull/114#issuecomment-7107350246) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-3. 🗣 Commented on [#113](https://github.com/RokaSwK/threebot/pull/113#issuecomment-7105592662) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-4. 🗣 Commented on [#114](https://github.com/RokaSwK/threebot/pull/114#issuecomment-7106740452) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-5. 💪 Opened PR [#114](https://github.com/RokaSwK/threebot/pull/114) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+1. 🎉 Merged PR [#113](https://github.com/RokaSwK/threebot/pull/113) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+2. 🎉 Merged PR [#112](https://github.com/RokaSwK/threebot/pull/112) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+3. 🎉 Merged PR [#114](https://github.com/RokaSwK/threebot/pull/114) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+4. 🎉 Merged PR [#110](https://github.com/RokaSwK/threebot/pull/110) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+5. 🎉 Merged PR [#111](https://github.com/RokaSwK/threebot/pull/111) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
