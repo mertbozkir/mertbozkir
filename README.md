@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/RokaSwK/threebot/pull/113) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-2. 🎉 Merged PR [#112](https://github.com/RokaSwK/threebot/pull/112) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-3. 🎉 Merged PR [#114](https://github.com/RokaSwK/threebot/pull/114) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-4. 🎉 Merged PR [#110](https://github.com/RokaSwK/threebot/pull/110) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
-5. 🎉 Merged PR [#111](https://github.com/RokaSwK/threebot/pull/111) in [RokaSwK/threebot](https://github.com/RokaSwK/threebot)
+1. 🎉 Merged PR [#113](https://github.com/n1stal/threebot/pull/113) in [n1stal/threebot](https://github.com/n1stal/threebot)
+2. 🎉 Merged PR [#112](https://github.com/n1stal/threebot/pull/112) in [n1stal/threebot](https://github.com/n1stal/threebot)
+3. 🎉 Merged PR [#114](https://github.com/n1stal/threebot/pull/114) in [n1stal/threebot](https://github.com/n1stal/threebot)
+4. 🎉 Merged PR [#110](https://github.com/n1stal/threebot/pull/110) in [n1stal/threebot](https://github.com/n1stal/threebot)
+5. 🎉 Merged PR [#111](https://github.com/n1stal/threebot/pull/111) in [n1stal/threebot](https://github.com/n1stal/threebot)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
