@@ -26,11 +26,11 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/n1stal/threebot/pull/124) in [n1stal/threebot](https://github.com/n1stal/threebot)
-2. 🎉 Merged PR [#123](https://github.com/n1stal/threebot/pull/123) in [n1stal/threebot](https://github.com/n1stal/threebot)
-3. 💪 Opened PR [#124](https://github.com/n1stal/threebot/pull/124) in [n1stal/threebot](https://github.com/n1stal/threebot)
-4. 💪 Opened PR [#123](https://github.com/n1stal/threebot/pull/123) in [n1stal/threebot](https://github.com/n1stal/threebot)
-5. 🎉 Merged PR [#113](https://github.com/n1stal/threebot/pull/113) in [n1stal/threebot](https://github.com/n1stal/threebot)
+1. ❗ Opened issue [#128](https://github.com/n1stal/threebot/issues/128) in [n1stal/threebot](https://github.com/n1stal/threebot)
+2. 🗣 Commented on [#124](https://github.com/n1stal/threebot/pull/124#issuecomment-7237239162) in [n1stal/threebot](https://github.com/n1stal/threebot)
+3. 🎉 Merged PR [#124](https://github.com/n1stal/threebot/pull/124) in [n1stal/threebot](https://github.com/n1stal/threebot)
+4. 🎉 Merged PR [#123](https://github.com/n1stal/threebot/pull/123) in [n1stal/threebot](https://github.com/n1stal/threebot)
+5. 💪 Opened PR [#124](https://github.com/n1stal/threebot/pull/124) in [n1stal/threebot](https://github.com/n1stal/threebot)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
